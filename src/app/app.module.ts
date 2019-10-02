@@ -12,6 +12,7 @@ import { TeamComponent } from './components/team/team.component';
 import { NewyorkComponent } from './components/newyork/newyork.component';
 import { LoginComponent } from './components/login/login.component';
 import { SignupComponent } from './components/signup/signup.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { SignupComponent } from './components/signup/signup.component';
     TeamComponent,
     NewyorkComponent,
     LoginComponent,
-    SignupComponent
+    SignupComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

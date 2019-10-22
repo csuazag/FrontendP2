@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@agm/core": "^1.0.0",
     "@angular/animations": "~8.2.4",
     "@angular/common": "~8.2.4",
     "@angular/compiler": "~8.2.4",
@@ -20,6 +21,7 @@
     "@angular/platform-browser-dynamic": "~8.2.4",
     "@angular/router": "~8.2.4",
     "bootstrap": "^4.3.1",
+    "decode-google-map-polyline": "^1.0.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
     "rxjs": "~6.4.0",

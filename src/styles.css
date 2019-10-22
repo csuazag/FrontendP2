@@ -5,6 +5,26 @@
     margin-bottom: 20px;
 }
 
+h1, h2{
+  font-family: 'Be Vietnam', sans-serif;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+agm-map {
+  height: 600px;
+}
+
+
+
+.text-menu{
+  font-family: 'Roboto', sans-serif;
+}
+
 .img-logo{
   width: 100px;
   height: 80px;
